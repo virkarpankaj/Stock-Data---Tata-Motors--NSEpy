@@ -1,0 +1,1 @@
+# Stock-Data---Tata-Motors--NSEpy
